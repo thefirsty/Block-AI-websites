@@ -1,5 +1,7 @@
 import platform
 from loguru import logger
+
+
 def extract_domain(url):
     """
     Extracts the domain name from a full URL.
