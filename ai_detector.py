@@ -4,6 +4,13 @@ from bs4 import BeautifulSoup
 AI_KEYWORDS = ["artificial intelligence", "chatbot", "gpt", "llm", "openai", "copilot", "generative"]
 AI_DOMAINS = ["chatgpt.com", "openai.com", "bard.google.com", "gemini.google.com", "copilot.microsoft.com", "character.ai", "claude.ai", "perplexity.ai"]
 
+def contains_ai_keyword(text: str) -> bool:
+    """
+    Checks if the given text (e.g., window title) contains AI-related keywords.
+    """
+    text = text.lower()
+    return any(keyword in text for keyword in AI_KEYWORDS)
+
 def is_ai_site(url):
     url = url.lower()
     if any(domain in url for domain in AI_DOMAINS):
