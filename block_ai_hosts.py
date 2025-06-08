@@ -5,7 +5,7 @@ from loguru import logger
 AI_DOMAINS = [
     "chatgpt.com", "www.chatgpt.com", "openai.com", "chat.openai.com",
     "bard.google.com", "gemini.google.com", "copilot.microsoft.com",
-    "claude.ai", "perplexity.ai", "character.ai"
+    "claude.ai", "perplexity.ai", "character.ai", "chat.yishreylev.net"
 ]
 
 BLOCK_MARKER_START = "#ai_blocker_start"
