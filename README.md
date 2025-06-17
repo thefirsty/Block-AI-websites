@@ -33,12 +33,18 @@ copilot.microsoft.com
 character.ai
 
 
-All blocked inside your hosts file, like this:
+All blocked inside your `hosts` file, like this:
 
+```hosts
 #ai_blocker_start
 127.0.0.1 chatgpt.com
+127.0.0.1 openai.com
 127.0.0.1 bard.google.com
+127.0.0.1 gemini.google.com
+127.0.0.1 copilot.microsoft.com
 127.0.0.1 claude.ai
+127.0.0.1 perplexity.ai
+127.0.0.1 character.ai
 ...
 #ai_blocker_end
 
@@ -47,7 +53,7 @@ All blocked inside your hosts file, like this:
 ## 🧠 How to Use This Brain Trainer
 
 ### 🟢 To Block AI Sites:
-1. Download block_ai_hosts.exe from the [Releases](https://github.com/yourusername/yourrepo/releases)
+1. Download block_ai_hosts.exe from the [Releases](https://github.com/thefirsty/Block-AI-websites/releases)
 2. Right-click → **Run as Administrator**
 3. That’s it. You’re now doing mental pushups.
 
