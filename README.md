@@ -47,6 +47,7 @@ All blocked inside your `hosts` file, like this:
 127.0.0.1 character.ai
 ...
 #ai_blocker_end
+```
 
 
 
