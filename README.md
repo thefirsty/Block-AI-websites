@@ -95,3 +95,8 @@ Heavy. Frictional. Beautiful.
 ## 🔓 License
 
 MIT – because software freedom should include freedom from software.
+
+---
+
+> 🤖 *This README was 100% handcrafted by a human.*  
+> 🤫 *(Okay, fine, maybe AI helped a little. Just don’t tell the EXE — it hates irony.)*
