@@ -1,23 +1,23 @@
-# 🧠 AI Website Blocker – Mental Gym Edition
+# 🧠 Brain Gym - AI Blocker to keep your brain sharp
 
 I used to be sharp.  
-Then I started “just checking ChatGPT real quick.”  
-5 hours later I’d emerge, not smarter — just confused and mildly ashamed.
+Then I started "just checking ChatGPT real quick." 
+5 hours later I'd emerge, not smarter - just confused and mildly ashamed.
 
-So I built myself a little tool. A resistance band for the brain.  
+So I built myself a small tool. A resistance band for the brain.  
 Because apparently, thinking is now an extreme sport.
 
 ---
 
 ## 💪 What Is This?
 
-A small EXE that acts like a personal trainer yelling “NO!”  
-at your attempts to open ChatGPT, Bard, Claude, or anything else that wants to “help” you think.
+A small tool that acts like a personal trainer yelling "NO!"  
+at your attempts to open ChatGPT, Claude, Gemini or anything else that wants to "help" you think.
 
 It modifies your hosts file and redirects those tempting AI websites back to the void (a.k.a. 127.0.0.1).
 
-You’ll try to open ChatGPT.  
-You’ll fail.  
+You'll try to open ChatGPT.  
+You'll fail.  
 And then... you might actually think for yourself.
 
 ---
@@ -28,10 +28,10 @@ Everything from:
 
 chatgpt.com
 openai.com
-bard.google.com
+claude.ai
+gemini.google.com
 copilot.microsoft.com
-character.ai
-
+...
 
 All blocked inside your `hosts` file, like this:
 
@@ -54,11 +54,11 @@ All blocked inside your `hosts` file, like this:
 ## 🧠 How to Use This Brain Trainer
 
 ### 🟢 To Block AI Sites:
-1. Download block_ai_hosts.exe from the [Releases](https://github.com/thefirsty/Block-AI-websites/releases)
+1. Download block_ai_hosts.exe from the [Releases](https://github.com/thefirsty/brain-gym/releases)
 2. Right-click → **Run as Administrator**
-3. That’s it. You’re now doing mental pushups.
+3. That's it. You're now doing mental pushups.
 
-### 🔓 To Unblock (when your boss isn’t watching):
+### 🔓 To Unblock (when your boss isn't watching):
 1. Download unblock_ai_hosts.exe
 2. Run it as admin
 3. All blocked domains will be removed
@@ -77,7 +77,7 @@ No installer. No background watcher. Just one clean shot to the forehead of your
 ## 🧘 Why?
 
 Because just like your muscles weakened when machines started lifting for you,  
-your mind is softening under the warm glow of “AI assistance.”
+your mind is softening under the warm glow of "AI assistance."
 
 This is a **digital detox dumbbell**.  
 Heavy. Frictional. Beautiful.
@@ -99,4 +99,4 @@ MIT – because software freedom should include freedom from software.
 ---
 
 > 🤖 *This README was 100% handcrafted by a human.*  
-> 🤫 *(Okay, fine, maybe AI helped a little. Just don’t tell the EXE — it hates irony.)*
+> 🤫 *(Okay, fine, maybe AI helped a little. Just don't tell the EXE - it hates irony.)*
